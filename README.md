@@ -16,7 +16,7 @@ Note: You will need to adjust the dimensions declared at the top of the file to 
 
 ## Installation
 1. Clone or download this repository to your local machine.
-2. Install the required Python packages using pip:
+2. Install the required Python packages using pip
 
 ## Setup
 1. Open the Google Minesweeper game in your web browser.
